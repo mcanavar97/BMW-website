@@ -10,3 +10,4 @@ CSS: Style and design.
 SCSS: It was used to give a dynamic shape.
 
 # Preview
+![](bmw-cars-gif.gif)
